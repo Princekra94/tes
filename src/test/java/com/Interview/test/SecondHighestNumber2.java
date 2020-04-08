@@ -15,7 +15,7 @@ public class SecondHighestNumber2 {
 
 		System.out.println("Second Highest Number = "+ number[number.length-2]);
 		
-		System.out.println(Integer.MAX_VALUE);
+		//System.out.println(Integer.MAX_VALUE);
 
 	}
 

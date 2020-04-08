@@ -22,7 +22,10 @@ public class ReverseString {
 		
 		
 		
+		StringBuffer sb = new StringBuffer(s);
+		sb.reverse();
 		
+		System.out.println(sb);
 		
 		
 		
