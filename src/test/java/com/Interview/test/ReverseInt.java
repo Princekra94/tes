@@ -6,18 +6,15 @@ public class ReverseInt {
 
 		int  num = 987654;
 		
-		int rev = 0;
+		int rev=0;
 		
-		while (num!=0) {
-			
-			rev = rev * 10 + num%10;
-			num = num/10;
+		while(num!=0) {
+			rev = rev*10 + num%10;
+			num=num/10;
 			
 		}
 		
 		System.out.println(rev);
-		
-		
 		
 	}
 

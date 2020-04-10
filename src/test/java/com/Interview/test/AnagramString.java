@@ -43,6 +43,7 @@ public class AnagramString {
     public static void main(String[] args) {  
         isAnagram("Keep", "Peek");  
         isAnagram("Mother In Law", "Hitler Woman");  
+        isAnagram("tyr", "bnu");
     }  
 	
 	
